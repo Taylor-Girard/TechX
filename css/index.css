@@ -4,13 +4,13 @@ body {
     background-color: pink;
 }
 
-h1, h3, h4{
+h3, h4{
     color: lightcyan;
 }
 
 p{
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 a{
@@ -19,4 +19,11 @@ a{
 
 ul{
     display: inline-block;
+}
+
+#welcome{
+    width: 10%;
+    background-color: white;
+    box-shadow: 10px 10px 5px;
+    margin: auto;
 }
