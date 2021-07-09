@@ -18,7 +18,5 @@ a{
 }
 
 ul{
-    
-    margin-left: 575px;
-    width: 100px;
+    display: inline-block;
 }
