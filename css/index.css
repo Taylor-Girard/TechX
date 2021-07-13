@@ -27,3 +27,9 @@ ul{
     box-shadow: 10px 10px 5px;
     margin: auto;
 }
+
+#buttonFormat{
+    margin-top: 500px;
+    display: block;
+    align-self: center;
+}
